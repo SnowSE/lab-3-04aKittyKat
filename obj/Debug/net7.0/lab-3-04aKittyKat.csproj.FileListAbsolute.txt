@@ -1,0 +1,14 @@
+C:\Users\hazel.ashby\CS1405\ClassSession3\lab-3-04aKittyKat\bin\Debug\net7.0\lab-3-04aKittyKat.exe
+C:\Users\hazel.ashby\CS1405\ClassSession3\lab-3-04aKittyKat\bin\Debug\net7.0\lab-3-04aKittyKat.deps.json
+C:\Users\hazel.ashby\CS1405\ClassSession3\lab-3-04aKittyKat\bin\Debug\net7.0\lab-3-04aKittyKat.runtimeconfig.json
+C:\Users\hazel.ashby\CS1405\ClassSession3\lab-3-04aKittyKat\bin\Debug\net7.0\lab-3-04aKittyKat.dll
+C:\Users\hazel.ashby\CS1405\ClassSession3\lab-3-04aKittyKat\bin\Debug\net7.0\lab-3-04aKittyKat.pdb
+C:\Users\hazel.ashby\CS1405\ClassSession3\lab-3-04aKittyKat\obj\Debug\net7.0\lab-3-04aKittyKat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hazel.ashby\CS1405\ClassSession3\lab-3-04aKittyKat\obj\Debug\net7.0\lab-3-04aKittyKat.AssemblyInfoInputs.cache
+C:\Users\hazel.ashby\CS1405\ClassSession3\lab-3-04aKittyKat\obj\Debug\net7.0\lab-3-04aKittyKat.AssemblyInfo.cs
+C:\Users\hazel.ashby\CS1405\ClassSession3\lab-3-04aKittyKat\obj\Debug\net7.0\lab-3-04aKittyKat.csproj.CoreCompileInputs.cache
+C:\Users\hazel.ashby\CS1405\ClassSession3\lab-3-04aKittyKat\obj\Debug\net7.0\lab-3-04aKittyKat.dll
+C:\Users\hazel.ashby\CS1405\ClassSession3\lab-3-04aKittyKat\obj\Debug\net7.0\refint\lab-3-04aKittyKat.dll
+C:\Users\hazel.ashby\CS1405\ClassSession3\lab-3-04aKittyKat\obj\Debug\net7.0\lab-3-04aKittyKat.pdb
+C:\Users\hazel.ashby\CS1405\ClassSession3\lab-3-04aKittyKat\obj\Debug\net7.0\lab-3-04aKittyKat.genruntimeconfig.cache
+C:\Users\hazel.ashby\CS1405\ClassSession3\lab-3-04aKittyKat\obj\Debug\net7.0\ref\lab-3-04aKittyKat.dll
